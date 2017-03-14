@@ -8,7 +8,7 @@ Keep doing these actions until you reach 0. Return how many split and subtract o
 def option2():
     #formating console string to allow user to understand what function takes in
     print ("\tBella Lash Option2\n\tThis is a application that takes in an interger and outputs whether the interger is even or odd\n\tIf even will output the number of time it can be divided by 2. If odd will output the number of \n\ttimes it is subtracted by one to react zero.")
-    #declaring variable to store input from user
+    #declaring variable to store count
     i = 0
     #parse string number into interger
     user_int = int(input("\nType in an interger and hit 'Enter'"))
